@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Bienvenidos a mi blog.
+Welcome to my blog.
 
 [Link to another page](https://250300683.me/about/)
 
@@ -44,7 +44,7 @@ end
 
 *   The sky at sunrise and sunset..
 *   The music.
-*   my partner.
+*   my girlfriend.
 
 ##### favorite music
 
@@ -104,4 +104,4 @@ end of the blog
 ```
 
 ## Emojis
-😲😄💌☀️🌔💌
+😄💌☀️🌙💌
