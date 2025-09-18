@@ -6,7 +6,7 @@ permalink: /about/
 
 Bienvenidos a mi blog.
 
-[Link to another page](./another-page.html).
+[Link to another page](https://250300683.me/about/)
 
 There should be whitespace between paragraphs.
 
