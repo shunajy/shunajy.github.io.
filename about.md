@@ -8,9 +8,9 @@ Bienvenidos a mi blog.
 
 [Link to another page](https://250300683.me/about/)
 
-There should be whitespace between paragraphs.
+I hope you find it interesting.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hi, I'm Shunashi, I'm 18 years old and I was born in Tabasco..
 
 
 ## About me
@@ -21,7 +21,7 @@ I am someone who enjoys simple things: a good sunset, a song that makes me feel 
 
 > like writing because I feel that words can hold emotions that sometimes cannot be spoken out loud.
 >
-> I like listening to music because I reflect my emotions in it
+> I like listening to music because I reflect my emotions in it.
 
 ### Header 3
 
@@ -52,18 +52,13 @@ end
 2.  Olivia Rodrigo - get him back.
 3.  IU - celebrary.
 
-###### Header 6
+###### phrases
+ Life is in the little things
+Today can be a good start
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### study in.
 
-### There's a horizontal rule below this.
-
-* * *
+* * * University of the Caribbean
 
 ### Here is an unordered list:
 
