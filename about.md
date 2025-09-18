@@ -60,19 +60,18 @@ Today can be a good start
 
 * * * University of the Caribbean
 
-### Here is an unordered list:
+### social networks:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   instagram: shunagy
+*   Tw: shunny
+*   TK: sshuany
+*   Discord: shunajy
 
-### And an ordered list:
+###  favorite food:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  pizza
+2.  hamburger
+3.  french fries
 
 ### And a nested list:
 
