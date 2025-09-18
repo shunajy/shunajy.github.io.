@@ -82,13 +82,6 @@ Today can be a good start
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![yo](C:\Users\250300683\Downloads\yo.jpg)
-
-
-![yo]![yo](https://github.com/user-attachments/assets/8b27824e-b833-4cf1-9212-6746dbd941c8.jpg)
-
 ### data.
 
 <dl>
