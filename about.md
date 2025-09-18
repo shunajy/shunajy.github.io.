@@ -40,17 +40,17 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### What Inspires Me
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   The sky at sunrise and sunset..
+*   The music.
+*   my partner.
 
-##### Header 5
+##### favorite music
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Stray kids - cover me.
+2.  Olivia Rodrigo - get him back.
+3.  IU - celebrary.
 
 ###### Header 6
 
