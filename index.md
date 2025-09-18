@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Hey, I think you stole my dog - Shuna Perez
+home_text: Escribir para no olvidar. - Shuna Perez
 title: Shuna Perez
 ---
