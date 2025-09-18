@@ -17,11 +17,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 I am someone who enjoys simple things: a good sunset, a song that makes me feel calm and the small moments that become big memories. I consider myself dreamy, curious and cheerful.
 
-## Header 2
+## I like...
 
-> This is a blockquote following a header.
+> like writing because I feel that words can hold emotions that sometimes cannot be spoken out loud.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> I like listening to music because I reflect my emotions in it
 
 ### Header 3
 
