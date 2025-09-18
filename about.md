@@ -84,7 +84,7 @@ Today can be a good start
 
 ### Large image
 
-    ![yo]((https://github.com/user-attachments/assets/391f787d-8656-4d07-af55-21efbbfb848d.jpg)
+!("C:\Users\250300683\Downloads\yo.jpg")
 
 ### data.
 
