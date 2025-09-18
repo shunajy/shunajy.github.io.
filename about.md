@@ -84,7 +84,7 @@ Today can be a good start
 
 ### Large image
 
-!("C:\Users\250300683\Downloads\yo.jpg")
+!(C:\Users\250300683\Downloads\yo.jpg)
 
 ### data.
 
