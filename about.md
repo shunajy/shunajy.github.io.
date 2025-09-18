@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Bienvenidos a mi blog.
 
 [Link to another page](./another-page.html).
 
