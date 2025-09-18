@@ -73,21 +73,12 @@ Today can be a good start
 2.  hamburger
 3.  french fries
 
-### And a nested list:
+### favorite hobbies:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- draw
+  - sleep
+   - read
+   - play video games
 
 ### Small image
 
