@@ -84,7 +84,8 @@ Today can be a good start
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+    ![yo]((https://github.com/user-attachments/assets/391f787d-8656-4d07-af55-21efbbfb848d)
+/tu/imagen.jpg)
 
 
 ### data.
