@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Escribir para no olvidar. - Shuna Perez
+home_text: Write so as not to forget. - Shuna Perez
 title: Shuna Perez
 ---
